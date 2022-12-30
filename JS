@@ -1,0 +1,12 @@
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node INDEX index.js`[39m
+mongodb+srv://socialbooks:rQ6K48fk29mVFQJ7@cluster1.mpiyq8b.mongodb.net/?retryWrites=true&w=majority
+socialBooking running on 5000
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node INDEX index.js`[39m
+mongodb+srv://socialbooks:rQ6K48fk29mVFQJ7@cluster1.mpiyq8b.mongodb.net/?retryWrites=true&w=majority
+socialBooking running on 5000
